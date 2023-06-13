@@ -5,7 +5,7 @@
 <div style ="display: flex; align-items: center; justify-content:center;">
   <div class="image">
     <p align="center">
-    <img width="200em" height="200em" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
+    <img width="200em" height="200em" src="https://sportscafe.in/img/es3/articles/Cricket_1/is%20India's%20Cricket%20Team%20an%20unstoppable%20Force%20(1).jpg"><br>
       </p>
     </div>
 <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilhermeGranada&layout=compact&langs_count=7&theme=maroongold"/>
