@@ -5,7 +5,7 @@
 <div style ="display: flex; align-items: center; justify-content:center;">
   <div class="image">
     <p align="center">
-    <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
+    <img width="130em" height="130em" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
       </p>
     </div>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilhermeGranada&layout=compact&langs_count=7&theme=maroongold"/>
