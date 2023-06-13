@@ -2,13 +2,7 @@
 
 ##
 
-<style>
-  .data {
-  display: flex;
-  }
-  </style>
-  
-<div class="data">
+<div style ="display: flex; align-items: center; justify-content:center;">
   <div class="image">
     <img align="center" height="130em" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png">
     </div>
