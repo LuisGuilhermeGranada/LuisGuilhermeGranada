@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/LuisGuilhermeGranada">
-  <img align="center" height="130" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png">
+  <img align="center" height="130" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png"><br>
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilhermeGranada&layout=compact&langs_count=7&theme=maroongold"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisGuilhermeGranada&show_icons=true&theme=maroongold&include_all_commits=true&count_private=false"/>
 </div>
